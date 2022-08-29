@@ -1,2 +1,2 @@
-# Omer-Jafarli
+# OmerJafarli
 Omer
